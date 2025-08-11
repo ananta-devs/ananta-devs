@@ -67,29 +67,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananta-devs&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
----
 
-## 🏆 Featured Projects
-
-### 🌟 [Project Name 1](https://github.com/ananta-devs/project1)
-**Full-stack e-commerce platform** - Built with React, Node.js, and PostgreSQL
-- Implemented secure payment processing with Stripe
-- Achieved 99% uptime with AWS deployment
-- Served 10,000+ users with real-time inventory management
-
-### 🌟 [Project Name 2](https://github.com/ananta-devs/project2)
-**Task management SaaS application** - Built with Vue.js, Django, and Redis
-- Real-time collaboration features using WebSocket
-- Advanced analytics dashboard with Chart.js
-- JWT authentication and role-based access control
-
-### 🌟 [Project Name 3](https://github.com/ananta-devs/project3)
-**Open-source developer tools** - TypeScript library with 500+ GitHub stars
-- Comprehensive testing with Jest (95% coverage)
-- Automated CI/CD pipeline with GitHub Actions
-- NPM package with 1,000+ weekly downloads
-
----
 
 ## 📈 Contribution Activity
 
@@ -121,5 +99,12 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
   **Thanks for visiting!** ⭐️ Consider starring some repositories if you find them interesting!
 </div>
 
-<!-- Optional: Add a snake animation -->
-![Snake animation](https://github.com/ananta-dedvs/ananta-devs/blob/output/github-contribution-grid-snake.svg)
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
