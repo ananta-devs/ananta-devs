@@ -1,18 +1,15 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Ananta Hazra] 👋
 
-## 🚀 Full-Stack Developer | Web Development Enthusiast | Problem Solver
+## 🚀 Learning Software Developing | Web Development Enthusiast | Problem Solver
 
 Welcome to my GitHub profile! I'm a passionate software developer with expertise in building scalable web applications and delivering innovative solutions. I love turning complex problems into simple, beautiful, and intuitive designs.
 
 ### 🔭 What I'm currently working on
-- Building a modern e-commerce platform with React and Node.js
+- Building a AI based mock interview platform with React and Node.js
 - Contributing to open-source projects in the JavaScript ecosystem
-- Learning cloud architecture patterns with AWS and Docker
 
 ### 🌱 What I'm currently learning
-- Advanced TypeScript patterns and design principles
-- Microservices architecture and distributed systems
-- AI/ML integration in web applications
+- Selenium with java
 
 ---
 
@@ -29,9 +26,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 <!--![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) !-->
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 <!--![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)!-->
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ### Database & Cloud
 <!--![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)!-->
