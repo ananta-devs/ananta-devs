@@ -71,9 +71,11 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 
 ## 📈 Contribution Activity
 
-<!--START_SECTION:activity-->
-<!-- GitHub Activity will be automatically updated here -->
-<!--END_SECTION:activity-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
@@ -88,9 +90,6 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 
 ---
 
-## 💡 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
 
 <div align="center">
@@ -101,10 +100,6 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+
 
 ###
