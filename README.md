@@ -71,50 +71,23 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 
 ## 🏆 Featured Projects
 
-### 🌟 [Project Name 1](https://github.com/yourusername/project1)
+### 🌟 [Project Name 1](https://github.com/ananta-devs/project1)
 **Full-stack e-commerce platform** - Built with React, Node.js, and PostgreSQL
 - Implemented secure payment processing with Stripe
 - Achieved 99% uptime with AWS deployment
 - Served 10,000+ users with real-time inventory management
 
-### 🌟 [Project Name 2](https://github.com/yourusername/project2)
+### 🌟 [Project Name 2](https://github.com/ananta-devs/project2)
 **Task management SaaS application** - Built with Vue.js, Django, and Redis
 - Real-time collaboration features using WebSocket
 - Advanced analytics dashboard with Chart.js
 - JWT authentication and role-based access control
 
-### 🌟 [Project Name 3](https://github.com/yourusername/project3)
+### 🌟 [Project Name 3](https://github.com/ananta-devs/project3)
 **Open-source developer tools** - TypeScript library with 500+ GitHub stars
 - Comprehensive testing with Jest (95% coverage)
 - Automated CI/CD pipeline with GitHub Actions
 - NPM package with 1,000+ weekly downloads
-
----
-
-## 🎯 What I Bring to the Table
-
-```javascript
-const developer = {
-  code: ['JavaScript', 'TypeScript', 'Python', 'PHP'],
-  askMeAbout: ['web dev', 'tech', 'app dev', 'database design'],
-  technologies: {
-    frontEnd: {
-      js: ['React', 'Vue', 'Next.js'],
-      css: ['Sass', 'Tailwind', 'Bootstrap']
-    },
-    backEnd: {
-      js: ['Node', 'Express'],
-      python: ['Django', 'FastAPI'],
-      php: ['Laravel', 'Symfony']
-    },
-    databases: ['PostgreSQL', 'MongoDB', 'MySQL', 'Redis'],
-    misc: ['Docker', 'AWS', 'CI/CD', 'REST APIs', 'GraphQL']
-  },
-  architecture: ['Microservices', 'Event-Driven', 'Design Patterns'],
-  currentFocus: 'Building scalable applications with modern architectures',
-  funFact: 'I debug code faster when listening to lo-fi music 🎵'
-};
-```
 
 ---
 
@@ -143,10 +116,10 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ananta-devs&style=flat-square&color=blue" alt="Profile views"/>
   
   **Thanks for visiting!** ⭐️ Consider starring some repositories if you find them interesting!
 </div>
 
 <!-- Optional: Add a snake animation -->
-![Snake animation](https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ananta-dedvs/ananta-devs/blob/output/github-contribution-grid-snake.svg)
